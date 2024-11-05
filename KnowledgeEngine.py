@@ -52,7 +52,27 @@ def log_learning(func):
     return wrapper
 
 # Context manager for learning sessions
+@contextmanager
+def learning_session(subject):
+    print(f"Starting session for {subject.name}")
+    yield
+    print(f"Ending session for {subject.name}")
+
+# Generator to create new ideas
 def idea_generator():
     concepts = ["Idea 1", "Idea 2", "Idea 3"]
     for concept in concepts:
         yield concept
+
+
+# Execution of the project
+subject = CognizantSubject("Analyzer", cmath.sqrt(1 + 2j))
+concrete_object = ConcreteObject("Tree")
+abstract_object = AbstractObject("Justice")
+
+with learning_session(subject):
+    subject.learn(concrete_object)
+    subject.learn(abstract_object)
+
+for idea in idea_generator():
+    print(f"Generating new idea: {idea}")

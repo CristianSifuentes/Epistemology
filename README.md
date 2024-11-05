@@ -28,7 +28,29 @@ The known object can be:
 1. **Concrete**: something physical or material, such as a table, a tree, or a person. This type of object is accessible through the senses and direct experience.
 1. **Abstract**: ideas, concepts, theories, or even emotions and feelings. These are not accessible in a tangible way, but are understood through reasoning and reflection.
 
+## known object
+
 In philosophy, the study of the relationship between the knowing subject and the known object is crucial, since it raises questions about the objectivity of knowledge. Can the subject know the object as it really is, or will his knowledge always be influenced by his individual perceptions and experiences? Furthermore, this analysis is important in the debate between realism and idealism.
+
+## knowledge process
+
+Yes, the knowledge process is the set of stages and mechanisms through which a subject acquires, understands, and structures information about an object or phenomenon, transforming it into knowledge. This process involves the interaction between the knowing subject and the object of knowledge and consists of several fundamental phases. Here are the most common steps of the knowledge process:
+
+
+1. **Perception**: It is the first contact of the subject with the object through the senses. In this stage, the subject receives external stimuli (such as images, sounds, smells, etc.) that represent information about the object.
+
+1. **Interpretation or conceptualization**:
+ In this phase, the subject processes and organizes the information received, giving it meaning based on previous experiences, existing knowledge, and cognitive abilities. Here concepts and first ideas about the object arise.
+
+1. **Judgment and reasoning**: The subject analyzes, compares, relates and evaluates the perceived information. This allows judgments to be made, conclusions to be drawn or inferences to be drawn. This stage is crucial to move from mere perception to a deeper and more reflective understanding.
+
+1. **Synthesis and abstraction**: In this step, the subject integrates the different information and experiences obtained about the object, achieving a general or abstract understanding of it. This phase can give rise to more complex theories, hypotheses or ideas.
+
+1. **Verification or verification**: In scientific knowledge, in particular, the subject usually subjects his conclusions to testing, experimentation or validation to determine whether the acquired knowledge is true or valid in other contexts.
+
+1. **Application or communication**: Once the knowledge is consolidated, the subject can apply what has been learned in practice or share it with others. This allows knowledge to grow and be enriched in a community or culture.
+
+This process can be repeated and fed back, since the knowledge acquired in one stage can be used to interpret and understand new objects or experiences. Furthermore, the knowledge process can vary according to areas (science, philosophy, art) and can be influenced by factors such as cultural context, subjectivity and individual perspective.
 
 
 

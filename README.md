@@ -52,8 +52,13 @@ Yes, the knowledge process is the set of stages and mechanisms through which a s
 
 This process can be repeated and fed back, since the knowledge acquired in one stage can be used to interpret and understand new objects or experiences. Furthermore, the knowledge process can vary according to areas (science, philosophy, art) and can be influenced by factors such as cultural context, subjectivity and individual perspective.
 
+# Explanation of the Project
 
-
+* **CognizantSubject**: Represents the subject that learns from objects. It implements a magic method `__add__` to combine skills, and a complex number is used as part of the skill attribute.
+* **Knowledge Objects**: We use inheritance to create different types of knowledge (concrete and abstract), which the subject learns and stores in its knowledge base.
+* **Decorator** `@log_learning`: Monitors the learning and logs each new acquisition of knowledge.
+* **Context Manager** `learning_session`: Controls the opening and closing of each "learning session," helping to structure the process.
+* **Generator** `idea_generator`: Produces new ideas sequentially, simulating the continuous emergence of knowledge.
 
 
 

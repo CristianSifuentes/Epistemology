@@ -61,5 +61,25 @@ This process can be repeated and fed back, since the knowledge acquired in one s
 * **Generator** `idea_generator`: Produces new ideas sequentially, simulating the continuous emergence of knowledge.
 
 
+# New features explained (v1.0.0.1)
+
+
+1. Advanced Decorators:
+
+* `time_learning`: Calculates the time it takes the subject to learn each object, providing feedback on the speed of learning.
+
+* `attempt_counter`: Keep track of how many times the subject tries to learn the same object. This is useful to know if the subject has repeated attempts with a specific object.
+
+
+1. Method `analyze_knowledge` in `CognizantSubject`
+
+*  This method performs an advanced analysis of the subject's knowledge base, calculating the amount of concrete and abstract knowledge acquired. This function offers a structured summary of the knowledge that the subject has acquired.
+
+1. New context manager `analysis_session`: 
+
+* This manager simulates an "analysis session" in which an evaluation of the acquired knowledge is carried out. At the end of the analysis, a summary of the knowledge is printed.
+
+
+This version of the project adds a system for detailed monitoring of the learning process and knowledge analysis. Additionally, with additional decorators and context managers, the project becomes more robust and adaptable for more complex learning and assessment scenarios.
 
 
